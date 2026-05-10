@@ -1,0 +1,6 @@
+gradio
+pytesseract
+scikit-learn
+pandas
+numpy
+Pillow
